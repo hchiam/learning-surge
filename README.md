@@ -12,6 +12,8 @@ surge
 
 A helpful script to use: `surge <folder> https://<your-url>.surge.sh; open https://<your-url>.surge.sh;`
 
+You can teardown with: `surge teardown https://<your-url>.surge.sh`
+
 You can generate a [dependency graph](https://github.com/hchiam/learning-dependency-cruiser) with `bash show_dep_graph.sh`.
 
-This file was first created using the Yeoman generator [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning).
+This file was originally created using the Yeoman generator [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning).
